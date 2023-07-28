@@ -1,0 +1,11 @@
+{
+  "name": "card-counter-component",
+  "version": "1.0.1",
+  "description": "My first npm component",
+  "main": "Card.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "by Pintu",
+  "license": "ISC"
+}

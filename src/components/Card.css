@@ -1,0 +1,35 @@
+/* Card.css */
+.card {
+    /* Add styles for the card container */
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    margin: 50px;
+    padding: 100px;
+    /* Add any other styles as needed */
+  }
+  
+  .button-container {
+    display: flex;
+    justify-content:flex-start;
+    margin-top: 20px; /* Adjust this value to set the top margin */
+    justify-content: center;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  /* Optional: Add margin between the buttons */
+  .button-container button {
+    margin-right: 10px; /* Adjust this value to set the horizontal space between buttons */
+  }
+  .button-container button:hover{
+    background-color: rgb(60, 63, 56);
+    color: blanchedalmond;
+  }
+
+  .h1{
+    color: blanchedalmond;
+
+  }
