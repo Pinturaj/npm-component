@@ -1,4 +1,6 @@
-module: {
+module.exports = {
+  // Other webpack configurations...
+  module: {
     rules: [
       {
         test: /\.(js|jsx)$/,
@@ -9,4 +11,6 @@ module: {
       },
       // Other rules for CSS, images, etc.
     ],
-  }  
+  },
+  // Other webpack configurations...
+};

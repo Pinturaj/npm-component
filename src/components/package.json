@@ -1,11 +1,23 @@
 {
   "name": "card-counter-component",
-  "version": "1.0.1",
+  "version": "1.0.6",
   "description": "My first npm component",
   "main": "Card.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "by Pintu",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pinturaj/npm-component.git"
+  },
+  "keywords": [
+    "counter",
+    "card"
+  ],
+  "bugs": {
+    "url": "https://github.com/Pinturaj/npm-component/issues"
+  },
+  "homepage": "https://github.com/Pinturaj/npm-component#readme"
 }
